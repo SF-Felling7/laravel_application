@@ -1,1 +1,14 @@
 {!! MaterializeCSS::include_full() !!}
+
+.nav-wrapper{
+  background: #1976d2;
+}
+.brand-logo {
+  margin-left: 150px;
+}
+.nav-wrapper ul {
+  margin-right: 150px;
+}
+a:hover {
+  color: gold;
+}
